@@ -1,0 +1,17 @@
+r:Midas' Ring of Blades
+d:Magical Blades surround and move with the caster.  Any who touch the blades suffer health damage.
+i:1 Gold Nugget
+i:5 Silver Longsword
+r:Midas' Bound Blaze Saber
+d:This spell conjures a sword of magical fire in the casters hand.
+i:1 Gold Nugget
+i:1 Longsword of the Blaze OR Longsword of the Inferno
+r:Midas' Lightning Bolt
+d:Midas' Lightning Bolt casts an instant hit bolt of shock energy at the target.  It will continue to strike in a tight dispersal pattern until it connects with a target or dissipates. This spell has 3 levels.
+i:1 Gold Nugget
+i:1 Flawless Topaz
+i:1-3 GlowDust
+r:Midas' Magic Missiles
+d:Midas' Magic Missiles casts projectiles of pure magic at the target. These missiles move unhindered by physical objects and will hit all targets in their path. This spell has 3 levels
+i:1 Gold Nugget
+i:3-5 Skooma

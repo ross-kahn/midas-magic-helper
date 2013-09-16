@@ -1,0 +1,1483 @@
+r:Midas' Banshee Blast
+d:Emits stream of powerful sonic energy.  Targets are stunned and take pure physical damage as if caught in a trap.
+i:1 Gold Nugget
+i:1 Eldritch Dust
+i:1 Lesser Sonic Essence
+r:Midas' Brimstone Blast
+d:Emits a spray of Eldritch Fire from the caster's hand.  Targets caught in the stream suffer fire and fatigue damage.
+i:1 Gold Nugget
+i:1 Eldritch Dust
+i:1 Lesser Fire Essence
+r:Midas' Chilling Tentacles
+d:Several writhing tentacles appear around the caster. They attack opponents with frost magic.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Tentacle Sinew
+r:Midas' Eldritch Blast
+d:Casts a spray of pure Eldritch Energy.  Targets suffer health and magicka damage.
+i:1 Gold Nugget
+i:1 Eldritch Dust
+i:1 Lesser Arcane Essence
+r:Midas' Fury Blast
+d:Emits a spray of raw Elemental Energy.  Targets suffer fire, frost and shock damage.
+i:1 Gold Nugget
+i:1 Eldritch Dust
+i:1 Lesser Life Essence
+r:Midas' Hellrime Blast
+d:Emits a spray of Eldritch Ice from the caster's hand.  Targets caught in the stream suffer frost damage and drained speed.
+i:1 Gold Nugget
+i:1 Eldritch Dust
+i:1 Lesser Frost Essence
+r:Midas' Netherspark Blast
+d:Emits a spray of Eldritch Shock energy from the caster's hand.  Targets caught in the stream suffer shock fatigue and various drained skills from the blinding effect.
+i:1 Gold Nugget
+i:1 Eldritch Dust
+i:1 Lesser Shock Essence
+r:Midas' Utterdark Blast
+d:Emits a spray of Eldritch Darkness.  Targets suffer a myriad of ill effects, demoralization, fatigue and minor health damage, and damage or draining to several attributes.
+i:1 Gold Nugget
+i:1 Eldritch Dust
+i:1 Lesser Entropic Essence
+r:Midas' Vitriolic Blast
+d:Emits a spray of Eldritch Acid.  This magical acid damages health and corrodes weapons and armor.
+i:1 Gold Nugget
+i:1 Eldritch Dust
+i:1 Lesser Osmotic Essence
+r:Midas’ Dust Devil
+d:This spell conjures a whirlwind of sand that precedes the caster.  The spell damages the health of the target for the duration they are exposed.
+i:1 Gold Nugget
+i:1 Voidsalts
+i:1 Sandstone Fragment
+r:Midas’ Dust Storm
+d:This spell conjures a blinding dust storm. It impairs all those caught in it including the caster. The effect slows targets and drains fatigue and renders the marksman skill useless.  Only works outdoors.
+i:1 Gold Nugget
+i:1 Voidsalts
+i:1 GlowDust
+i:1 Bloodgrass
+r:Midas’ Sand Vortex
+d:This spell conjures a searing cloud of sand centered on the caster, damaging and blinding opponents.
+i:1 Gold Nugget
+i:1 Sandstone Heart
+r:Midas’ Summon Scorpion
+d:Calls forth a giant scorpion to pinch and paralyze your opponents.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Scorpion Stinger
+r:Midas Rain
+d:When cast outdoors, this spell causes rain. Not much else.
+i:1 Gold Nugget
+i:1 Voidsalts
+i:1 Clouded Funnel Cap
+r:Midas Tsunami
+d:A massive wave of water engulfs the caster and those around her. Anyone caught by the tsunami is stunned and blown back. Targets with high fire resistance receive frost damage. Targets with high frost resistance may be frozen for a period.
+i:1 Gold Nugget
+i:1 Greater Osmotic Essence
+i:1 Shark Liver
+r:Midas' Waterbolt
+d:A small bolt of water shoots forth from the casters hand causing moderate water magic effects on the target.
+i:1 Gold Nugget
+i:1 GlowDust
+i:1 Lesser Osmotic Essence
+r:Midas' Water Burst
+d:Water Burst casts a wave of water outward from the casters position.  Any object within its range will be forced away from the caster and receive water spell effects.
+i:1 Gold Nugget
+i:1 Greater Sonic Essence
+i:1 Greater Osmotic Essence
+r:Midas Water Globe
+d:Forms a swirling ball of water that precedes the caster.  The first living target that touches the globe is engulfed and suspended helplessly for thirty seconds.
+i:1 Gold Nugget
+i:1 Greater Osmotic Essence
+i:1 Greater Arcane Essence
+r:Midas Water Shell
+d:This spell covers the caster in a shell of water, increasing the caster's damage resistance and making him immune to fire.
+i:1 Gold Nugget
+i:1 Lesser Osmotic Essence
+i:1 Scales (Fish)
+r:Midas Water Spray
+d:A torrent of water sprays forth from the caster, stunning opponents. Targets with high fire resistance receive frost damage. Targets with high frost resistance may be frozen for a period.
+i:1 Gold Nugget
+i:1 Lesser Osmotic Essence
+i:1 Shark Liver
+r:Midas Roman Candle
+d:This spell will set your opponents on fire and launch them into the air.
+i:1 Gold Nugget
+i:1 Copper Nugget
+i:1 Firesalts
+r:Midas' Blood Fountain
+d:The victim of this spell begins to bleed profusely. The blood loss causes substantial health and fatigue loss.
+i:1 Gold Nugget
+i:1 Blood Potion
+i:1 Daedra Heart
+r:Midas' Bloodlust
+d:The target of this spell is thrust into a barbaric frenzy as strength and speed are also increased. The target will attack all in sight.
+i:1 Gold Nugget
+i:1 Blood Potion
+i:1 Voidsalts
+r:Midas' Bloodworms
+d:This spell inflicts the bloodworms sickness on touch. The target receives health damage over time.
+i:1 Gold Nugget
+i:1 Blood Potion
+i:1 Wormwood Leaves
+r:Midas' Bound Flesh Cleaver
+d:Summons and binds a profane axe which will absorb the health of your enemies.
+i:1 Gold Nugget
+i:1 Daedric Waraxe
+i:1 Human Heart
+r:Midas' Cloud of Violence
+d:The ensuing fog drives all those within it mad with rage. Carnage is sure to follow.
+i:1 Gold Nugget
+i:1 Greater Osmotic Essence
+i:1 Blood Potion
+r:Midas' Consume Flesh
+d:This spell absorbs the body if one of the races of Nirn; giving the Caster one permanent HP. This defilement is considered a crime and will raise the caster's bounty.
+i:1 Gold Nugget
+i:1 Human Heart
+i:1 Vampire Dust
+r:Midas' Consume Soul
+d:This spell absorbs the body if one of the races of Nirn; giving the Caster one permanent MP. This defilement is considered a crime and will raise the caster's bounty.
+i:1 Gold Nugget
+i:1 Human Heart
+i:1 Bonemeal
+r:Midas' Dark Seeker
+d:This casts as an intelligent magical projectile that hovers above the ground seeking out its target. It inflicts status and health damage on impact.
+i:1 Gold Nugget
+i:1 Daedra Venin
+i:1 Voidsalts
+r:Midas' Death Bolt
+d:A powerful bolt of negative energy flows from the caster's fingers. Damaging the health of all in it's path..
+i:1 Gold Nugget
+i:1 Greater Entropic Essence
+i:1 Ebony Nugget
+r:Midas' Death Grasp
+d:This spell calls forth the grasping hands of the undead from beneath the target. As they tear at your opponent they both immobilize him and damage his health
+i:1 Gold Nugget
+i:1 Greater Entropic Essence
+i:1 Bonemeal
+r:Midas' Doom Cloud
+d:Creates a cloud of vile magic which will reduce an exposed targets health to half of its maximum.
+i:1 Gold Nugget
+i:1 Blood Potion
+i:1 Lesser Entropic Essence
+r:Midas' Doppelganger
+d:This spell creates a ethereal duplicate of the target which will attack and distract it for a short time.
+i:1 Gold Nugget
+i:1 Greater Osmotic Essence
+i:1 Skooma
+r:Midas' Flesh Bomb
+d:The targets' core temperature slowly begins to rise until it explodes in a ball of flame, damaging those around it.
+i:1 Gold Nugget
+i:1 Blood Potion
+i:1 Greater Fire Essence
+r:Midas' Ghost Swarm
+d:The area around the caster fills with enraged spirits. The living in the area are stricken with terror and flee.
+i:1 Gold Nugget
+i:1 Lesser Life Essence
+i:1 Ectoplasm
+r:Midas' Mind Control
+d:A powerful mind control spell that effects the most powerful humanoids. It has no effect on other creatures.
+i:1 Gold Nugget
+i:1 Vampire Dust
+i:1 Skooma
+r:Midas' Pestilence
+d:The caster breathes a swarm of infectious flies, damaging the targets strength and endurance.
+i:1 Gold Nugget
+i:1 Fly Amanita Cap
+i:1 Voidsalts
+r:Midas' Putrid Fog
+d:A disgusting cloud of vile odor repulses and drains the fatigue of all in its path.
+i:1 Gold Nugget
+i:1 Greater Osmotic Essence
+i:1 Onion
+r:Midas' Sever Spirit
+d:This spell rips the target NPC's spirit from his body; leaving the body helpless. The disembodied spirit will however continue to fight.
+i:1 Gold Nugget
+i:1 Silver Nugget
+i:1 Grand Soul Gem (Empty)
+r:Midas' Shadow Armor
+d:Protects the caster with a cloak of shadow for 20 sec, increasing both concealment and armor rating. However, while under the spell the caster can be damaged by sunlight.
+i:1 Gold Nugget
+i:1 Voidsalts
+i:1 Vampire Dust
+r:Midas' Shadow Flare
+d:Casts a flare of dark energy which damages health of good aligned targets. It has no effect on undead or evil targets.
+i:1 Gold Nugget
+i:1 Voidsalts
+i:1 Lesser Entropic Essence
+r:Midas' Soul Burst
+d:This spell combines a force burst with a Soul Trap area of effect. Great for soul gatherers.
+i:1 Gold Nugget
+i:1 Greater Sonic Essence
+i:1 Grand Soul Gem (Empty)
+r:Midas' Summon Shadow
+d:Calls forth a Shadow from the undead realms to do your bidding.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 NightShade
+r:Midas' Summon Skull
+d:Summons a disembodied magical skull and bends it to your will.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Skull
+i:1 GlowDust
+r:Midas' Utterdark Burst
+d:Emits an explosion of Eldritch Darkness.  Targets suffer a myriad of ill effects, demoralization, fatigue and minor health damage, and damage or draining to several attributes.
+i:1 Gold Nugget
+i:1 Eldritch Dust
+i:1 Greater Entropic Essence
+r:Midas' Zombify Corpse
+d:This spell transforms the corpse of a fallen humanoid into a zombie.
+i:1 Gold Nugget
+i:1 Mortflesh
+i:1 Grand Soul Gem (Empty)
+r:Midas' Air Cushion
+d:A light cloud appears beneath the caster's feet. This prevents fall damage from long falls and allows the caster to walk on water.
+i:1 Gold Nugget
+i:1 Clouded Funnel Cap
+i:1 Astral Beacon Cap
+r:Midas' Asphyxiation
+d:This spell draws the air from the lungs of those in its wake. Once a target's fatigue is drained by the spell it receives health damage as well.
+i:1 Gold Nugget
+i:1 Lesser Sonic Essence
+i:1 Greater Osmotic Essence
+r:Midas' Cyclone
+d:This spell conjures a whirlwind of frosted air which immobilizes the target and causes a small amount of frost damage.
+i:1 Gold Nugget
+i:1 Voidsalts
+i:1 Frostsalts
+r:Midas' Plasma Rupture
+d:An explosion of sound and shock energy burst forth from inside the target.  Targets killed in the blast will be completely obliterated..
+i:1 Gold Nugget
+i:1 Lesser Sonic Essence
+i:1 Greater Shock Essence
+r:Midas' Sound Burst
+d:Sound Burst creates a sonic explosion centered at the caster.  Targets in range are forced away and stunned by the blast.
+i:1 Gold Nugget
+i:1 Flawless Sapphire
+i:1 Greater Sonic Essence
+r:Midas' Tornado
+d:Manifests a violent torrential cloud in front of the caster.  Targets caught in its wake are helplessly flung aside and suffer shock damage.
+i:1 Gold Nugget
+i:1 Flawless Pearl
+i:1 Voidsalts
+r:Midas' Vortex
+d:This spell creates a magical vortex in the target area. The vortex draws all in range into its center causing magical damage.
+i:1 Gold Nugget
+i:1 Greater Entropic Essence 
+i:1 Greater Sonic Essence
+r:Midas' Whirlwind
+d:A great torrent of wind surrounds the caster. All targets receive health and fatigue damage and may be flung helplessly by this powerful incantation
+i:1 Gold Nugget
+i:1 Pure Sonic Essence
+i:1 Voidsalts
+r:Midas' Holy Hand Grenade
+d:Summons the Holy Hand Grenade of Antioch to smite your foes.
+i:1 Gold Nugget
+i:1 Cyrodilic Brandy
+i:1 Pure Life Essence
+r:Midas' Bound Holy Blaze
+d:Summons and binds a sword of holy flame to the caster's hand. The blade burns and turns undead.
+i:1 Gold Nugget
+i:1 Angelic Katana
+i:1 Greater Life Essence
+r:Midas' Confession
+d:The caster taps inner strength to bend the target to his will. This leaves the caster fatigued and vulnerable to attack for a time.
+i:1 Gold Nugget
+i:1 Skooma
+i:1 Mead
+r:Midas' Detect Undead
+d:This spell enables the caster to see the undead that lurk in the darkness .
+i:1 Gold Nugget
+i:1 Lesser Life Essence 
+i:1 Lesser Sonic Essence
+r:Midas' Destruction's End
+d:This is a powerful but difficult to control master level spell.  It summons forth a ball of holy energy a few hundred yards in front of the caster that erupts in a burst of energy, anything inside is instantly killed.
+i:1 Gold Nugget
+i:1 Pure Life Essence 
+i:1 Greater Entropic Essence
+r:Midas' Fists of Fire
+d:The monks channels the power of Ki to inflict fire damage on enemies struck with his bare fists.
+i:1 Gold Nugget
+i:1 Strong Elixir of Exploration 
+i:1 Firesalts
+r:Midas' Fists of Frost
+d:The monks channels the power of Ki to inflict frost damage on enemies struck with his bare fists.
+i:1 Gold Nugget
+i:1 Strong Elixir of Exploration 
+i:1 Frostsalts
+r:Midas' Fists of Shock
+d:The monks channels the power of Ki to inflict shock damage on enemies struck with his bare fists.
+i:1 Gold Nugget
+i:1 Strong Elixir of Exploration 
+i:1 Voidsalts
+r:Midas' Mighty Fists of Fire
+d:A more powerful version of Fists of Fire.
+i:1 Gold Nugget
+i:1 Strong Elixir of Exploration 
+i:1 Greater Fire Essence
+r:Midas' Mighty Fists of Frost
+d:A more powerful version of Fists of Frost.
+i:1 Gold Nugget
+i:1 Strong Elixir of Exploration 
+i:1 Greater Frost Essence
+r:Midas' Mighty Fists of Shock 
+d:A more powerful version of Fists of Shock.
+i:1 Gold Nugget
+i:1 Strong Elixir of Exploration 
+i:1 Greater Shock Essence
+r:Midas' Fists of the Master
+d:A Ki master can channel magicka into physical strikes inflicting fire, frost and shock damage.
+i:1 Gold Nugget
+i:1 Strong Elixir of Exploration 
+i:1 Greater Life Essence
+r:Midas' Glyph of Warding
+d:Creates a magical glyph at the caster's feet that enemies are forbidden to cross.
+i:1 Gold Nugget
+i:1 Greater Life Essence
+i:1 Jade Nugget
+r:Midas' Healing Force
+d:A forceful explosion pushes enemies away while simultaneously restoring the caster's health.
+i:1 Gold Nugget
+i:1 Ambrosia
+i:1 Greater Sonic Essence
+r:Midas' Healing Fount
+d:After casting, the caster continues to heal as long as he remains stationary.
+i:1 Gold Nugget
+i:1 Greater Life Essence
+i:1 Lesser Osmotic Essence
+r:Midas' Holy Barrier
+d:This surrounds the caster with a barrier of holy light which undead and enemies will not pass.
+i:1 Gold Nugget
+i:1 Flawless Diamond
+i:1 Pure Life Essence
+r:Midas' Holy Breath
+d:The caster breathes holy energy which harms undead and heals allies.
+i:1 Gold Nugget
+i:1 Ambrosia
+i:1 Fennel Seeds
+r:Midas' Holy Burst
+d:Midas' Holy Burst is an area effect spell on the caster.  The effects are similar to that of Holy Ray but affect all in the area of the caster. If no one else has been affected by the spell, it will heal the caster.
+i:1 Gold Nugget
+i:1 Flawless Diamond
+i:1 Greater Life Essence
+r:Midas' Holy Flare
+d:Casts a stream of holy fire from the caster's fingertips.  Undead targets burst into holy flame, while others only feel a calming effect.
+i:1 Gold Nugget
+i:1 Lesser Life Essence
+i:1 Lesser Fire Essence
+r:Midas' Holy Fire
+d:Casts a wall of holy flame before the caster, damaging only undead targets.
+i:1 Gold Nugget
+i:1 Lesser Life Essence
+i:1 Firesalts
+i:1 Ambrosia
+r:Midas' Holy Orbs
+d:Three magical orbs orbit the caster, damaging undead and healing allies.
+i:1 Gold Nugget
+i:3 Lesser Life Essence
+i:1 Flawless Pearl
+r:Midas' Holy Ray
+d:Midas' Holy Ray casts and instant hit beam which causes divine damage to undead or daedric targets and restores health on non-evil targets. It has no effect on evil mundane targets or dremora.
+i:1 Gold Nugget
+i:1 Flawless Diamond
+i:1 Ambrosia
+r:Midas' Holy Resurrect
+d:This spell calls upon the divines to restore life to your fallen comrades. It does not work on creatures or evil entities.
+i:1 Gold Nugget
+i:1 Ambrosia
+i:1 Pure Life Essence
+r:Midas' Mass Heal
+d:This area effect spell restores the health of the caster's allies but has no effect on the caster.
+i:1 Gold Nugget
+i:1 Ambrosia
+i:1 Voidsalts
+r:Midas' Mass Restore
+d:A more powerful version of mass heal. This also cures ailments and curses on allies.
+i:1 Gold Nugget
+i:1 Ambrosia
+i:1 GlowDust
+r:Midas' Protect Others
+d:All allies in the vicinity gain shield and magic resistance for a time.
+i:1 Gold Nugget
+i:1 Crystal Ball
+i:1 Tinder Polypore Cap
+r:Midas' Spirit Hammer
+d:Midas' Spirit Hammer binds a weightless Warhammer of Spirit Energy to the caster. This weapon turns undead and damages the fatigue of your opponents.
+i:1 Gold Nugget
+i:1 Ebony Warhammer
+i:1 Greater Life Essence
+r:Midas' Spirit Warrior
+d:This powerful restoration spell creates as spiritual doppelganger of the caster. Although it cannot deliver physical damage, it has all the items and enchantments of its progenitor.
+i:1 Gold Nugget
+i:1 Greater Life Essence
+i:1 Ectoplasm
+r:Midas' Summon Angel
+d:Calls an heavenly warrior to fight by your side. The higher your fame, the longer the angel will stay with you. But, It won't leave you during a fight.
+i:1 Gold Nugget
+i:1 Flawless Diamond
+i:1 White Monk Robe
+r:Midas' Summon Astral Stag
+d:Summon Astral Stag calls forth a stag comprised of holy energy. Like the Holy Sprite it has a strong distaste for the unholy and undead. It wields a ranged holy attack that is particularly effective against them.
+i:1 Gold Nugget
+i:1 Astral Beacon Cap
+i:1 Venison
+r:Midas' Summon Holy Sprite
+d:Manifests an entity of holy light. It's sole purpose is to seek out and destroy the undead. It is immune to almost all physical and magical attacks but when it attacks it uses some of it's essence and will eventually expire.  It may distract but not harm the living.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Ambrosia
+i:1 GlowDust
+r:Midas' Ultima
+d:Ultima is an explosive healing spell.  All caught in the blast experience restored health but are stunned by the force of the blast.
+i:1 Gold Nugget
+i:1 Greater Life Essence 
+i:1 Greater Sonic Essence
+r:Midas' Wings of an Angel
+d:The caster sprouts wings and is able to fly for 30 sec. While in flight, the caster must remain stationary to cast spells or arrows.
+d:NOTE: Feathers can only be bought from Angels in certain places
+i:1 Gold Nugget
+i:1 Angel Feather
+r:Midas' Wings of the Archangel
+d:The caster sprouts wings and is able to fly for 90 sec. While in flight, the caster must remain stationary to cast spells or arrows.
+d:Feathers can only be bought from Angels in certain places
+i:1 Gold Nugget
+i:1 Tyrael's Feather
+r:Midas' Bomb
+d:Summons an explosive device into the world. Activating it starts a 10 sec fuse. Can be dropped, thrown or catapulted at a target.
+i:1 Gold Nugget
+i:1 Cyrodilic Brandy
+i:1 Magmasalts
+r:Midas' Breath of Fire
+d:Causes the caster to breathe flames for a short duration; setting your targets aflame.
+i:1 Gold Nugget
+i:1 Firesalts
+i:1 Garlic
+i:1 Leek
+r:Midas' Chain Fireball
+d:Casts a ball of fire on the target.  This spell has a chance to jump to another nearby target based on the casters luck. This spell has 3 levels.
+i:1 Gold Nugget
+i:1 Flawless Ruby
+i:1-3 Chainmail Gauntlets
+r:Midas' Column of Fire
+d:Calls down fiery wrath from the heavens on your target and those around, dealing an explosion of fire damage. Requires Destruction Mastery and can only be cast outdoors.
+i:1 Gold Nugget
+i:1 Greater Fire Essence
+i:1 Greater Arcane Essence
+r:Midas' Fireball Frenzy
+d:Casts a stream of low level fireballs when an enemy is targeted.
+i:1 Gold Nugget
+i:1 Firesalts
+i:1 Skooma
+r:Midas' Fire Burst
+d:An explosion of fire centered on the caster blasts your opponents away in flames.  Can only be used by Masters of Destruction.
+i:1 Gold Nugget
+i:1 Greater Fire Essence
+i:1 Greater Sonic Essence
+r:Midas' Fire Missiles
+d:This spell casts several fireballs which can then be guided by the caster.
+i:1 Gold Nugget
+i:1 Skooma
+i:1 Flawless Ruby
+r:Midas' Fire Streak
+d:An stream of fire flows forth from the casters hand and ricochets through the environment inflicting fire damage on those it comes in contact with.
+i:1 Gold Nugget
+i:1 Ogre's Teeth
+i:1 Firesalts
+r:Midas' Glyph of Fire
+d:A wall of flame surrounds the caster. All that cross it receive fire damage.
+i:1 Gold Nugget
+i:1 Flawless Diamond
+i:1 Greater Fire Essence
+r:Midas' Heat Beam
+d:Midas' Heat Beam cast a beam of fire magic at the target, instantly causing fire damage.  The concentrated power of this spell can burn through solid objects to hit the target. This spell has 3 levels.
+i:1 Gold Nugget
+i:1 Flawless Ruby
+i:1-3 Imp Gall
+r:Midas' Inferno
+d:A raging inferno of flame bursts forth from the target or target area causing fire damage to all those it contacts.
+i:1 Gold Nugget
+i:1 Greater Fire Essence
+i:1 Astral Beacon Cap
+r:Midas' Magic Flare
+d:A projectile of magical energy explodes on impact releasing both magical and fire damage.
+i:1 Gold Nugget
+i:1 Greater Arcane Essence
+i:1 Firesalts
+r:Midas' Magma Ball
+d:Midas' Magma Ball launches a physical projectile of magma. This projectile will ricochet off the environment until it impacts a target and detonates in a ball of fire. The magma ball will eventually detonate on it's own.
+i:1 Gold Nugget
+i:1 Flawless Ruby
+i:1 Firesalts
+r:Midas' Mega Fireball
+d:This spell hurtles a powerful fireball at the target area which explodes on impact releasing force and fire damage.
+i:1 Gold Nugget
+i:1 Varla Stone
+i:1 Greater Fire Essence
+r:Midas' Nova Burst
+d:A swirling vortex of flame appears above the caster. Any target that comes in range is repeatedly pelted with fireballs.
+i:1 Gold Nugget
+i:1 Voidsalts
+i:1 Greater Fire Essence
+r:Midas' Nuclear Blast
+d:This powerful spell cause a nuclear explosion at the target area. Those caught at ground zero receive massive fire, force and magical damage.
+i:1 Gold Nugget
+i:1 Mace of Malog Bal
+r:Midas' Ring of Fire
+d:Midas' Ring of Fire surrounds the caster with a defensive ring of fire.  Anyone entering this ring sustains fire damage. Additional Brandy increases the strength and mana cost.
+i:1 Gold Nugget
+i:1-3 Cyrodilic Brandy
+i:1 Troll Fat
+r:Midas' Summon Fire Efreet
+d:Manifests a demigod of the fire plane to do your bidding.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Pure Fire Essence
+r:Midas' Summon Fire Sprite
+d:Manifests an entity of pure fire to fight by your side. It is immune to fire and resistant to physical attack. It is, of course, weak to frost attacks.  It also makes a powerful source of light in those dark corridors.
+i:1 Gold Nugget
+i:1 Firesalts
+i:1 Ectoplasm
+i:1 GlowDust
+r:Midas' Summon Magma Fiend
+d:Summons a creature of pure magma to do battle with your enemies.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Magmasalts
+r:Midas' Volcano
+d:A powerful spell which causes a volcano to erupt beneath the target. If the target moves too slowly it will be caught in the tremendous volcanic eruption.
+i:1 Gold Nugget
+i:1 Greater Fire Essence
+i:1 Magmasalts
+r:Midas' Vulcan
+d:A spray of fiery darts shoots forth from the casters fingertips. Targets receive fire damage for the duration they are exposed to the spell .
+i:1 Gold Nugget
+i:1 Flawless Ruby
+i:1 Magmasalts
+r:Midas' Wildfire
+d:This spell creates a wave of fire in front of the caster that burns all targets in it's path.
+i:1 Gold Nugget
+i:1 Bloodgrass
+i:1 Lesser Fire Essence
+i:1 Firesalts
+r:Midas' Avalanche
+d:This spell calls down a cascade of frozen rocks on the target, causing frost and crushing damage.
+i:1 Gold Nugget
+i:1 Greater Frost Essence
+i:1 Frostwyrm Bow
+r:Midas' Breath of Frost
+d:Causes the caster to breathe freezing air for a short duration; freezing targets solid.
+i:1 Gold Nugget
+i:1 Frostsalts
+i:1 Fennel Seeds
+r:Midas' Comet
+d:This powerful incantation will call down a Comet to strike your target and those around with an explosion of frost damage. Requires Destruction Mastery and can only be cast outdoors.
+i:1 Gold Nugget
+i:1 Greater Frost Essence
+i:1 Greater Fire Essence
+r:Midas' Freeze Ray
+d:Midas' Freeze Ray cast a beam of concentrated frost energy.  Opponents caught in it's path must resist frost or become frozen solid for a period of time and receive frost damage. While frozen, they cannot move or be harmed.
+i:1 Gold Nugget
+i:1 Flawless Sapphire
+i:1 Lichor
+r:Midas' Glacial Eruption
+d:This spell creates an eruption of ice crystals in the area of the target, this temporarily freezes the target and causes frost damage.
+i:1 Gold Nugget
+i:1 Greater Frost Essence
+i:1 Astral Beacon Cap
+r:Midas' Glyph of Ice
+d:A barrier of ice crystals surrounds the caster. All who enter receive frost damage.
+i:1 Gold Nugget
+i:1 Flawless Diamond
+i:1 Greater Frost Essence
+r:Midas' Hail Storm
+d:This powerful spell calls the frost elements to create a torrent of hail from the sky. Requires Destruction Mastery and can only be cast outdoors.
+i:1 Gold Nugget
+i:1 Greater Frost Essence
+i:1 Greater Entropic Essence
+r:Midas' Ice Burst
+d:Summons a powerful explosion of ice centered on the caster to freeze all in range.
+i:1 Gold Nugget
+i:1 Greater Frost Essence
+i:1 Greater Sonic Essence
+r:Midas' Ice Storm
+d:Shards if ice rain down upon the land causing frost damage to all, including the caster. Requires Destruction Mastery and can only be cast outdoors.
+i:1 Gold Nugget
+i:1 Greater Frost Essence
+i:1 Greater Arcane Essence
+r:Midas' Ice Streak
+d:A stream of ice crystals burst forth from the casters hand causing frost damage to all that encounter it.
+i:1 Gold Nugget
+i:1 Ogre's Teeth
+i:1 Frostsalts
+r:Midas' Ice Strike
+d:This spell hurtles powerful ice crystals at the target area which explode on impact slowing targets and delivering frost damage.
+i:1 Gold Nugget
+i:1 Varla Stone
+i:1 Greater Frost Essence
+r:Midas' Ice Walk
+d:This spell creates a magical walkway of ice beneath the caster. While active, the caster may walk through the air in any direction he pleases.
+d:CAUTION: This spell can get you into places you shouldn't be.
+i:1 Gold Nugget
+i:1 Refined Frostsalts
+i:1 Astral Beacon Cap
+r:Midas' Igloo
+d:Midas' Igloo draws on the power of frost to form a solid shell of ice around the caster. While inside the caster is safe from harm.  This spell may only be dispelled with fire magic..
+i:1 Gold Nugget
+i:1 Lesser Frost Essence
+i:1 Stone Brick
+r:Midas' Snow Ball
+d:Midas' Snow Ball launches a physical projectile of ice. This projectile will ricochet off the environment until it impacts a target and detonates in a ball of frost damage. The snow ball will eventually detonate on it's own if no target has been hit.
+i:1 Gold Nugget
+i:1 Flawless Sapphire
+i:1 Frostsalts
+r:Midas' Snow Flurry
+d:A rush of frigid air surrounds the caster, causing frost damage to those in the vicinity.
+i:1 Gold Nugget
+i:1 Flawless Sapphire
+i:1 Voidsalts
+r:Midas' Summon Frost Sprite
+d:Manifests an entity of pure ice to fight by your side. It is immune to frost and resistant to physical attack. It is, of course, weak to fire attacks.
+i:1 Gold Nugget
+i:1 Frostsalts
+i:1 Ectoplasm
+i:1 GlowDust
+r:Midas' Summon Ice Siren
+d:Manifests a demigod of the ice plane to do your bidding.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Pure Frost Essence
+r:Midas' Summon Whompa
+d:Calls forth a powerful Yeti to engage in the icy throws of death with your foes.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Whompa Hide
+r:Midas' Call Lightning
+d:This area of effect spell calls down bolts of lighting on all around the caster.
+i:1 Gold Nugget
+i:1 Dryad Saddle Polypore Cap
+i:1 Lesser Shock Essence
+r:Midas' Chain Lightning
+d:Casts a bolt of shock damage on the target.  This bolt has a chance to jump to another nearby target based on the casters luck. This spell has 3 levels.
+i:1 Gold Nugget
+i:1 Flawless Topaz
+i:1-3 Chainmail Gauntlets
+r:Midas' Glyph of Shock
+d:This spell surrounds the caster with wall of shock energy. All who pass through will receive shock damage.
+i:1 Gold Nugget
+i:1 Flawless Diamond
+i:1 Greater Shock Essence
+r:Midas' Ion Beam
+d:Calls down a column of magic, force and shock energy on the target.
+i:1 Gold Nugget
+i:1 Greater Arcane Essence
+i:1 Greater Shock Essence
+r:Midas' Lightning Bolt
+d:Midas' Lightning Bolt casts an instant hit bolt of shock energy at the target.  It will continue to strike in a tight dispersal pattern until it connects with a target or dissipates. This spell has 3 levels.
+i:1 Gold Nugget
+i:1 Flawless Topaz
+i:1-3 GlowDust
+r:Midas' Lightning Storm
+d:The ultimate in destructive power. This spell rains down a relentless barrage of unerring lighting bolts on you enemies. Requires Destruction Mastery and can only be cast once per day, only outdoors.
+i:1 Gold Nugget
+i:1 Greater Shock Essence
+i:1 Greater Entropic Essence
+r:Midas' Megavolt
+d:Casts powerful bolts of lighting from your fingertips Damaging all in it's path.
+i:1 Gold Nugget
+i:1 Flawless Topaz
+i:1 Greater Shock Essence
+r:Midas' Shock Burst
+d:This spell surrounds the caster with a powerful electric charge.  Targets in range are blasted away as they receive shock damage.
+i:1 Gold Nugget
+i:1 Greater Shock Essence
+i:1 Greater Sonic Essence
+r:Midas' Shock Streak
+d:A bolt of electrical energy bursts forth from the casters hand, ricocheting off the environment and causing shock damage to all targets it encounters.
+i:1 Gold Nugget
+i:1 Ogre's Teeth
+i:1 Voidsalts
+r:Midas' Sparks
+d:Midas' Sparks is a low level spell that casts a erratic barrage of electrical sparks at the target doing a small amount of shock damage.
+i:1 Gold Nugget
+i:1 Flawed Topaz
+r:Midas' Summon Shock Master
+d:Manifests a demigod of the shock plane to do your bidding.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Pure Shock Essence
+r:Midas' Summon Shock Sprite
+d:Manifests an entity of shock energy into your service. It is immune to shock and resistant to physical attack but weak to fire and frost.
+i:1 Gold Nugget
+i:1 Voidsalts
+i:1 Ectoplasm
+i:1 GlowDust
+r:Midas' Thunder Cloud
+d:Midas' Thunder Cloud summons as small but potent lightning storm that moves slowly in front of the caster.  Anyone caught in it's wake will be struck by a bolt of shock damage.
+i:1 Gold Nugget
+i:1 Flawless Topaz
+i:1 Voidsalts
+r:Midas' Bone to Pick
+d:Place any common bone in a chest or other container and cast this spell on the container. It will transform these bones into lockpicks.
+i:1 Gold Nugget
+i:1 Bones (rib cage) 
+i:1 Lockpick
+r:Midas' Confoundus
+d:This ranged spell will charm and confuse the target and make him temporarily forget what he was about to do.
+i:1 Gold Nugget
+i:1 Crab Meat 
+i:1 Dragon's Tongue
+r:Midas' Cowardly Flight
+d:This spell greatly fortifies the caster's speed for 15 sec. But at the cost of his combat skills for the duration.
+i:1 Gold Nugget
+i:1 Ginko Leaf 
+i:1 Clouded Funnel Cap
+r:Midas' Expokuarmus
+d:This ranged spell will disarm your opponent.  If the target has a strong will or is lucky, the spell may fail to take effect.
+i:1 Gold Nugget
+i:1 Stinkhorn Cap 
+i:1 Milk Thistle Seeds
+r:Midas Expecta Patronus
+d:This spells summons a Lesser Astral Stag to fight by your side. Although it has low hit points and no magic attack, it has a heart of gold.
+i:1 Gold Nugget
+i:1 Ectoplasm 
+i:1 Venison 
+r:Midas Flipendeux
+d:This spells casts a bolt of magical energy that stuns your target and knock them a few feet into the air.
+i:1 Gold Nugget
+i:1 Radish
+i:1 Somnalius Frond
+r:Midas' Fireworks
+d:Casts a ranged spell that explodes a into a dazzling burst of light that causes minor elemental damage and may frighten opponents, especially wild animals.
+i:1 Gold Nugget
+i:1 Firesalts 
+i:1 Mugwort Seeds
+r:Midas Luminos
+d:This spells casts a glowing ball of light that moves slowly away from the caster.  Good for illuminating those dark corners ahead.
+i:1 Gold Nugget
+i:1 Torch
+i:1 Imp Gall
+r:Midas Mana Ball
+d:This spell drains an amount of the casters magicka into a self contained ball. When this ball is touched, the magicka is reabsorbed for use.
+i:1 Gold Nugget
+i:1 Skooma
+i:1 Inkwell
+r:Midas Rock Toss
+d:The simplest of spells. The caster magically heats a small stone and tosses it at the target.
+i:1 Gold Nugget
+i:1 Clay Cup
+r:Midas' Rude Shove
+d:Upon the touch of this spell, the target is overwhelmed with the urge to dodge away from the caster.
+i:1 Gold Nugget
+i:1 Radish 
+i:1 Rat Meat
+r:Midas’ Summon Balrog
+d:The greatest of conjurers may bind a Balrog to this world, but none may bind them to their will.   This spell unleashes a Balrog on the target.  This creature cannot be controlled and will turn on the summoner if given a chance.  This spell can only be casted once a day.
+i:1 Gold Nugget
+i:1 Balrog Horn
+r:Midas’ Oblivion Portal
+d:It is my belief that infusing the Prime Morpholith with Aurum will restore its power and allow the caster the ability to open an oblivion gate at will. Suspectedly, only outdoors.
+i:1 Gold Nugget
+i:1 The Prime Morpholith
+r:Midas' Dark Nebula
+d:This spell engulfs the area around the caster with a cloud of dark energy, making it difficult for opponents to target the caster or cast spells.
+i:1 Gold Nugget
+i:1 Greater Entropic Essence
+i:1 Spiddal Stick
+r:Midas' Dark Tentacles
+d:Magical tentacles emerge from beneath the casters feet, burdening those around and causing fatigue and health damage.
+i:1 Gold Nugget
+i:1 Dreugh Wax
+i:1 Harrada
+r:Midas’ Silver Bullet
+d:This spell casts as liquid silver projectile to damage the health of the target. It is designed to be extremely effective against Lycanthropes.
+i:1 Gold Nugget
+i:1 Silver Nugget
+i:1 Skooma
+r:Midas' Biohazard
+d:A puddle of toxic sludge erupts at the feet of the target causing poison damage to those in the area.
+i:1 Gold Nugget
+i:1 Greater Osmotic Essence
+i:1 Uberhulk Mandible
+r:Midas' Crushing Stones
+d:Manifests large boulders to surround and crush your target. This spell creates physical stones and is not affected by magical resistances.
+i:1 Gold Nugget
+i:1 Slime Heart
+i:1 Flawless Emerald
+r:Midas' Earth to Mud
+d:This spell transforms the earth beneath the caster into viscous mud.  Opponents entering the mud are burdened by the effect.
+i:1 Gold Nugget
+i:1 Clouded Funnel Cap
+i:1 Mandrake Root
+r:Midas' Eruption
+d:Colossal boulders burst forth from the earth around the caster damaging, stunning and obstructing would be assailants.
+i:1 Gold Nugget
+i:1 Greater Entropic Essence
+i:1 Sandstone Fragment
+r:Midas' Field of Tar
+d:This incantation creates a boiling field of tar around the caster. Opponents caught in it are slowed by it and are susceptible to fire damage.
+i:1 Gold Nugget
+i:1 Tar
+i:1 Uberhulk Mandible
+r:Midas' Pebble Blast
+d:Midas' Pebble Blast cast a shower of magical heated stones at your opponents.  These stones do physical damage and ignore magical resistance.
+i:1 Gold Nugget
+i:1 Emerald
+i:1 Ogre's Teeth
+r:Midas' Smoke Screen
+d:Enshrouds the caster in a cloud of smoke; making for a much easier escape.
+i:1 Gold Nugget
+i:1 Bonemeal
+i:1 Bloodgrass
+r:Midas' Stoneskin
+d:Tranforms the casters flesh into flexible stone. It increases the casters armor class and resistance to fire but slows the caster and lowers mobility.
+i:1 Gold Nugget
+i:1 Scamp Skin
+i:1 Stone Brick
+r:Midas' Stone Storm
+d:Midas' Stone Storm summons a vortex of stones centered on the caster. Those caught in its path receive physical damage and may be knocked unconscious for a period of time.
+i:1 Gold Nugget
+i:1 Flawless Emerald
+i:1 Voidsalts
+r:Midas' Stone Wall
+d:This spell creates a solid wall of stone in front of the caster; creating a physical barrier between him and his foes.
+i:1 Gold Nugget
+i:1 Flawless Emerald
+i:1 Stone Brick
+r:Midas' Quake
+d:Causes an earthquake centered at the caster. Opponents may be loose their footing and receive physical damage by the shaking earth.
+i:1 Gold Nugget
+i:1 Greater Entropic Essence
+i:1 Uberhulk Mandible
+r:Midas' Smoke Breath
+d:Causes the caster to breathe caustic smoke for a short duration; disorienting your opponents and obscuring their vision.
+i:1 Gold Nugget
+i:1 Tobacco
+i:1 Spiddal Stick
+r:Midas' Summon Tar Fiend
+d:Calls forth a tar fiend from the depths of the earth to get you out of a sticky situation.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Tar
+r:Midas' Summon Uberhulk
+d:Calls forth a powerful Uberhulk to crush your opponents.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Uberhulk Mandible 
+r:Midas' Light Arrow
+d:Casts a magical arrow of light energy. The arrow will illuminate the target area or if it strikes a living being cast light on it.  This spell will cause significant damage to vampires.
+i:1 Gold Nugget
+i:1 Silver or Glass Arrow
+i:1 Torch
+r:Midas' Phoenix
+d:This greater power momentarily transforms the caster into a blaze of light. Nearby enemies receive fire damage while allies are restored and even resurrected.  Can only be cast once per day.
+i:1 Gold Nugget
+i:1 Varla Stone
+i:1 Pure Arcane Essence
+r:Midas' Starfall
+d:Starfall brings down the energy of the stars on your enemies.  Enemies in the vicinity of the caster are struck by falling stars and receive fire damage. Only works outdoors..
+i:1 Gold Nugget
+i:1 Flawless Pearl
+i:1 Greater Arcane Essence
+r:Midas' Summon Light Wisp
+d:Calls forth a living wisp of light to aid the caster in battle.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Lesser Arcane Essence
+r:Midas' Sun Burst
+d:Sun Burst calls forth a searing holy light to brighten the darkest catacombs. This spell causes substantial fire damage to vampires.
+i:1 Gold Nugget
+i:1 Flawless Topaz
+i:1 Greater Arcane Essence
+r:Midas' Sun Flare
+d:Calls down a star from the heavens on the target to inflict fire and shock damage. Only for use outdoors.
+i:1 Gold Nugget
+i:1 Flawless Diamond
+i:1 Greater Arcane Essence
+r:Midas’ Summon Carpet
+d:Midas’ Summon Carpet calls to you a magic carpet that allows you to travel Tamriel at blazing speeds.  The carpet doesn’t truly fly but hovers above the ground.  It does not sustain falling damage an can hover above water.
+i:1 Gold Nugget
+i:1 Enchanted Cloth
+i:1 Ectoplasm
+r:Midas’ Summon Cheese Atronach
+d:This creature is as strange as it gets A behemoth of walking cheese to fight at your side.  It is physically tough but weak to fire..
+i:1 Gold Nugget
+i:1 Cheese Wheel
+i:1 Blue Cheese
+i:1 Cheddar Cheese
+i:1 Marble Cheese
+r:Midas’ Summon Coin Seeker
+d:Summons forth a magical sprite with the sole purpose of retrieving gold coins for you. It has no offensive or defensive abilities.
+i:1 Gold Nugget
+i:1 Ceramic Bowl
+i:1 Ectoplasm
+r:Midas’ Summon Ebony Atronach
+d:This atronach is a suit of armor than has been bound to the will of a spirit.
+i:1 Gold Nugget
+i:1 Ebony Cuirass
+i:1 Ebony Helmet
+i:1 Ebony Gauntlets
+i:1 Ebony Boots
+r:Midas’ Summon Jelly
+d:Midas’ Summon Jelly manifests a very aggressive, amorphic blob of goo to fight by your side. Varieties of Jellies can be created by combining various fruits with this recipe. Due to their aggressive nature, they will attack one another.
+i:1 Gold Nugget
+i:1 Dreugh Wax
+i:1 Scamp Skin
+r:Midas’ Summon Lava Blob
+d:The Lava Blob is a special variant of jelly comprised of molten lava.  It is immune to fire damage and possesses both ranged and touch fire attacks.
+i:1 Gold Nugget
+i:1 Dreugh Wax
+i:1 Scamp Skin
+i:1 Greater Fire Essence
+r:Midas’ Summon Melon Atronach
+d:The Melon Atronach is an obscure creature loosely comprised of watermelons. It is a brutish fighter and good for absorbing the blows of your opponents.  It can toss it’s melons at opponents for additional damage.
+i:1 Gold Nugget
+i:3 Watermelon
+i:1 Ectoplasm
+r:Midas’ Summon Pumpkin Atronach
+d:The Pumkin Atronach is a tougher version of the melon atronach.  It, however does not have a ranged attack.
+i:1 Gold Nugget
+i:3 Pumpkin
+i:1 Ectoplasm
+r:Midas’ Summon Swarm
+d:This spell calls forth a swarm of insects to plague your opponents.  Although it does not cause much damage it can be quite a distraction.
+i:1 Gold Nugget  
+i:1 Vipers Bugloss Leaves
+i:1 St Johns Wort Nectar     
+i:1 Fly Amanita Cap 
+r:Midas’ Summon Sword(s)
+d:This spell enchants the Daedric weapons Goldbrand and Ebonyblade to become summonable entities. One can also create a weaker version of this spell with an Ebony Claymore.
+i:1 Gold Nugget
+i:1 Ebony Claymore OR Goldbrand OR Ebonyblade
+i:1 Ectoplasm
+r:Midas’ Summon White Tiger
+d:Calls to you a rare white tiger. It starts small but with a steady diet of Boar Meat it will begin to grow from a cub to a powerful great tiger that can be ridden like a steed. Feeding also increases its health, attack and defense.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 White Seed Pod
+i:1 Lion Pelt 
+r:Midas' Blade Missile
+d:This spell hurls a magical sword at your target damaging health.
+i:1 Gold Nugget
+i:1 Silver Shortsword
+i:1 Daedra Venin
+r:Midas' Bound Mirror Shield
+d:Binds a shield with spell and damage reflection enchantments on the caster.
+i:1 Gold Nugget
+i:1 Silver Nugget
+i:1 Mithril Shield
+r:Midas' Glaive
+d:This cheap but ill-conceived spell hurls a disk of spinning blades at your opponents. This disk causes an amount of physical an electrical damage and ricochets off the surroundings until the spell dissipates. If used improperly, it can do more harm than good.
+i:1 Gold Nugget
+i:5 Silver Dagger
+r:Midas' Living Glaive
+d:This summons an intelligent version of the Glaive. It seeks out your enemies and inflicts physical and shock damage.
+i:1 Gold Nugget
+i:5 Silver Dagger
+i:1 Ectoplasm
+i:1 Voidsalts
+r:Midas' Ring of Blades
+d:Magical Blades surround and move with the caster.  Any who touch the blades suffer health damage.
+i:1 Gold Nugget
+i:5 Silver Longsword
+r:Midas' Summon Iron Golem
+d:Calls forth a slow moving but powerful and well armored Mechanical Golem.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Mechanical Cog
+r:Midas' Summon Mechanical Archer
+d:Calls forth a Mechanical Archer to attack foes at range.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Targeting Processor
+r:Midas' Summon Mechanical Flamethrower
+d:Calls forth a walking flamethrower casting fireballs at its targets.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Thermostat
+r:Midas' Summon Mechanical Taser
+d:Calls forth a walking taser gun casting shock bolts at its targets.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Voltage Regulator
+r:Midas' Astral
+d:Mark / Recall
+d:These spells allow the caster to form and utilize magical connections to a long forgotten pocket of space in the astral plane. Using the mark spell, the caster may form a connection to one of six astral gates to the point in space he is currently occupying. The recall spell teleports the caster into the astral pocket where he may use the gates connected to the
+d:marks. If the recall spell is cast inside the pocket, the caster will be teleported to the place that recall was last cast.
+i:1 Gold Nugget
+i:1 Flawless Diamond 
+i:1 Flawless Ruby 
+i:1 Flawless Sapphire 
+i:1 Flawless Topaz 
+i:1 Flawless Emerald 
+i:1 Flawless Pearl 
+r:Midas' Absorption Stream
+d:This spell cast a stream of life absorbing energy for 3 seconds.  The stream draws health to the caster as long as it is focused on the target.
+i:1 Gold Nugget
+i:1 Copper Nugget
+i:1 Grand Soulgem (With Soul)
+r:Midas' Acid Arrow
+d:This spell launches an arrow of conjured acid at your target, causing damage to health and equipment.
+i:1 Gold Nugget
+i:1 Arrowroot
+i:1 Dragon's Tongue
+r:Midas' Acid Cloud
+d:A cloud of acid precedes the caster, corroding weapons and armor and damaging the health of those in its path.
+i:1 Gold Nugget
+i:1 Greater Entropic Essence
+i:1 Greater Osmotic Essence
+r:Midas' Acid Trap
+d:Lays a trap that sprays corrosive acid on your victim, causing damage to health and equipment.
+i:1 Gold Nugget
+i:1 Calipers
+i:1 Dragon's Tongue
+r:Midas' Anti-Magic Field
+d:This spell drains the area around the caster of magic energy. Anyone within, including the caster will be drained of their magical power.
+i:1 Gold Nugget
+i:1 Shadowbanish Wine
+i:1 Greater Osmotic Essence
+r:Midas' Anti-Magic Missile
+d:This projectile explodes on impacting a magical target. This spell will use the targets magicka as fuel to damage the targets health.
+i:1 Gold Nugget
+i:1 Shadowbanish Wine
+i:1 Varla Stone
+r:Midas' Arcane Burst
+d:This spell creates an explosion of pure magical energy centered on the caster. The Blast causes magical damage and forces your opponents away.
+i:1 Gold Nugget
+i:1 Greater Arcane Essence
+i:1 Greater Sonic Essence
+r:Midas' Astral Combat
+d:This spell casts a beam of otherworldly energy.  If it comes in contact with a living being, the target and the caster will be transported to the Astral Plane.  Where they may engage in mortal combat.
+i:1 Gold Nugget
+i:1 Astral Beacon Cap 
+i:1 Minotaur Horn
+r:Midas' Bound Blaze Saber
+d:This spell conjures a sword of magical fire in the casters hand.
+i:1 Gold Nugget
+i:1 Longsword of the Blaze OR Longsword of the Inferno
+r:Midas' Bound Frost Fang
+d:This spell conjures a sword of frost magic in the casters hand.
+i:1 Gold Nugget
+i:1 Longsword of Blizzards OR Longsword of Winter
+r:Midas' Bound Volt Edge
+d:This spell conjures a sword of shock magic in the casters hand.
+i:1 Gold Nugget
+i:1 Longsword of Lightning OR Longsword of Storms
+r:Midas' Berserk
+d:This spell transforms the caster into a powerful fighting force.  It enhances strength and speed, but most importantly infuses the blows of the caster with powerful physical force that blows opponents back.  It does leave the caster slightly vulnerable to weapon attacks.
+i:1 Gold Nugget
+i:1 Strong Elixir of Exploration 
+r:Midas' Catapult
+d:This spell spawns a working catapult in front of the caster.
+i:1 Gold Nugget
+i:1 Oar
+i:1 Repair Hammer
+i:1 Silver Bowl
+r:Midas' Chest
+d:Midas' Chest when called summons an other-worldly storage apparatus in which the caster can place his or her wares.  Ever so handy for the burdened adventurer.
+i:1 Gold Nugget
+i:1 Silver Urn
+i:1 Lock Pick
+r:Midas' Death Ray
+d:This spell casts a beam of dark energy that damages the vicim's health.  If the victim is killed, the spell will create a soulgem in the victims inventory.
+i:1 Gold Nugget
+i:1 Ebony Nugget
+i:1 Grand Soul Gem (Empty)
+r:Midas' Death Stream
+d:This spell cast a stream of dark energy for 3 seconds.  If the victim is killed, the spell will create a soulgem in the victims inventory.
+i:1 Gold Nugget
+i:1 Ebony Nugget
+i:1 Grand Soulgem (With Soul)
+r:Midas' Detection Mastery
+d:The ultimate detection spell.  Detection Mastery detects and distinguishes friends, foes, item and corpses in the vicinity of the caster.
+i:1 Gold Nugget
+i:1 Lesser Arcane Essence
+i:1 Greater Sonic Essence
+r:Midas' Entangle
+d:Midas' Entangle is a ranged attack that summons entangling vines to restrain your foe.  The vines can only hold one enemy at a time and if the enemy's agility and speed are high enough they may break the bindings.
+i:1 Gold Nugget
+i:1 Arrowroot
+i:1 Daedra Silk
+r:Midas' Explosive Arrow
+d:This spell fires a magical arrow that explodes on impact with the target or after a 10 second timer.
+i:1 Gold Nugget
+i:1 Silver or Glass Arrow
+i:1 Cyrodilic Brandy 
+r:Midas' Firebolt
+d:A small fireball, similar to a traditional fireball spell. This one however, lingers at the point of impact for a short while to deliver additional damage.
+i:1 Gold Nugget
+i:1 Ruby
+i:1 Firesalts
+r:Midas' Fire Seeker
+d:This casts as an intelligent magical projectile that hovers above the ground seeking out its target. It inflicts fire damage on impact.
+i:1 Gold Nugget
+i:1 Daedra Venin
+i:1 Firesalts
+r:Midas' Fire Trap
+d:This spell conjures a magical mine that falls to the ground.  Anyone who trips it is caught in an explosion of fire damage.
+i:1 Gold Nugget
+i:1 Firesalts
+i:1 Calipers
+r:Midas' Force Ball
+d:Midas' Force Ball is a projectile based attack that explodes in a blast of pure magical force when it intercepts a target. Although this spell doesn't do magical damage, victims can receive impact damage from the fall resulting from the blast.
+i:1 Gold Nugget
+i:1 Flawless Pearl
+i:1 Daedroth's Teeth
+r:Midas' Force Burst
+d:Force Burst casts a wave of magical force outward from the casters position.  Any object within it's range will be forced away from the caster. If the caster wanders outside of the eye of the blast he may feel the effects as well.
+i:1 Gold Nugget
+i:1 Flawless Pearl
+i:1 Greater Sonic Essence
+r:Midas' Force Charge
+d:The caster infuses her body with force energy and flies forth at her target.  Those hit by the attack are knocked to the ground but suffer no permanent damage from it.
+i:1 Gold Nugget
+i:1 Flawless Pearl
+i:1 Ginko Leaf
+r:Midas' Force Push
+d:Midas' Force Push summons and impenetrable ball of pure magical force in front of the caster. Those caught in it's wake are temporarily rendered helpless and blown aside by the blast.
+i:1 Gold Nugget
+i:1 Flawless Pearl
+i:1 Varla Stone
+r:Midas' Force Shield
+d:This Spells surrounds the caster with a wall of magical force. It repels those who encroach and from time to time, reflects magical projectiles.
+i:1 Gold Nugget
+i:1 Crystal Ball
+i:1 Greater Sonic Essence
+r:Midas' Frost Trap
+d:This spell conjures a magical mine that falls to the ground.  Anyone who trips it is frozen and receives frost damage.
+i:1 Gold Nugget
+i:1 Frostsalts
+i:1 Calipers
+r:Midas' Ghostly Visage
+d:The caster takes on the appearance of a ghost. This spell adds resistance to normal weapons and frost.
+i:1 Gold Nugget
+i:1 Skooma
+i:1 Ectoplasm
+r:Midas' Geysers
+d:This spell causes scalding steam to erupt from the ground beneath all targets in the vicinity of the caster, causing both Frost and Fire damage.
+i:1 Gold Nugget
+i:1 Greater Fire Essence
+i:1 Greater Osmotic Essence
+r:Midas' Grow Ray
+d:The Grow Ray temporarily increases the target's size. While enlarged, the target suffers reduced speed and agility.
+i:1 Gold Nugget
+i:1 Greater Osmotic Essence
+i:1 Cinnabar Polypore Yellow Cap
+r:Midas' Guided Missile
+d:A small bolt of magical damage, the trajectory of which can be guided by the caster.
+i:1 Gold Nugget
+i:1 Skooma
+i:1 GlowDust
+r:Midas' Holy Stream
+d:This spell cast a stream of holy energy for 3 seconds.  The effects are similar to Holy Ray, save that they compound the longer the spell is focused on the target.
+i:1 Gold Nugget
+i:1 Ambrosia
+i:1 Grand Soulgem (With Soul)
+r:Midas' Holy Trap
+d:Manifests a magical trap before the caster.  Undead targets that come in contact with it recieve holy damage..
+i:1 Gold Nugget
+i:1 Flawless Diamond
+i:1 Calipers
+r:Midas' Ice Seeker
+d:This casts as an intelligent magical projectile that hovers above the ground seeking out its target. It inflicts frost damage on impact.
+i:1 Gold Nugget
+i:1 Daedra Venin
+i:1 Frostsalts
+r:Midas' Ice Stream
+d:This spell cast a stream of ice for 3 seconds.  Targets are continuously damaged by frost energy while in the stream.
+i:1 Gold Nugget
+i:1 Frostsalts
+i:1 Grand Soulgem (With Soul)
+r:Midas' Mage Shield
+d:This spell surrounds the caster with a magical field that provides the caster with resistance to magical and elemental attacks for 30 sec.
+i:1 Gold Nugget
+i:1 Crystal Ball
+i:1 Lesser Arcane Essence
+r:Midas' Magic Missiles
+d:Midas' Magic Missiles casts projectiles of pure magic at the target. These missiles move unhindered by physical objects and will hit all targets in their path. This spell has 3 levels
+i:1 Gold Nugget
+i:3-5 Skooma
+r:Midas' Magic Seeker
+d:This casts as an intelligent magical projectile that hovers above the ground seeking out its target. It inflicts magical damage on impact.
+i:1 Gold Nugget
+i:1 Daedra Venin
+i:1 GlowDust
+r:Midas' Magma Stream
+d:This spell cast a stream of magma for 3 seconds.  Targets are continuously receive fire damage while in the stream.
+i:1 Gold Nugget
+i:1 Firesalts
+i:1 Grand Soulgem (With Soul)
+r:Midas' Mechanical Mine
+d:Creates an automated mine which seeks out targets and explodes on contact. If the mine is destroyed before it can detonate, the explosion only does partial damage.
+i:1 Gold Nugget
+i:1 Weight  
+i:1 Calipers
+i:1 Dreugh Wax  
+i:1 Firesalts
+r:Midas' Meteor
+d:Casts a powerful meteor from the casters fingertips, causing physical impact and fire damage to unlucky foes.
+i:1 Gold Nugget
+i:1 Lesser Fire Essence
+i:1 Lesser Entropic Essence
+r:Midas' Meteor Storm
+d:Calls an incredibly destructive hail of meteors from the sky.  Can only be used by Masters of Destruction, and only outdoors.
+i:1 Gold Nugget
+i:1 Greater Fire Essence
+i:1 Greater Entropic Essence
+r:Midas' Missile Fountain
+d:This spell sprays magic missiles from the feet of the caster causing health damage to enemies with range.
+i:1 Gold Nugget
+i:1 Lesser Arcane Essence
+i:1 Skooma
+r:Midas' Missile Rain
+d:A more powerful version of Missile Fountain with a larger area, missiles emerge from the casting glyph and fall back down on your enemies.
+i:1 Gold Nugget
+i:1 Greater Arcane Essence
+i:1 Skooma
+r:Midas' Missile Shield
+d:Midas' Missile Shield surrounds the caster with a translucent magical shield that blocks all arrow and projectile attacks, and protects the caster from falling damage.  It does not block magical or other physical attacks however.
+i:1 Gold Nugget
+i:1 Crystal Ball
+i:1 Scales (Fish)
+r:Midas' Missile Shower
+d:This spell launches a barrage of up to 7 magical projectiles at the target. Each missile inflicts fire, frost and shock damage.
+i:1 Gold Nugget
+i:1 Lesser Arcane Essence
+i:1 Voidsalts
+r:Midas' Missile Storm
+d:A more powerful version of the Missile Shower. This spell will continually launch missiles from above the caster while in effect.
+i:1 Gold Nugget
+i:1 Greater Arcane Essence
+i:1 Voidsalts
+r:Midas' Nature Orb
+d:This creates a slow moving sphere of natural energy. The sphere will explode on impact or after 6 seconds have passed, causing magical damage and stuns the targets.
+i:1 Gold Nugget
+i:1 Taproot
+i:1 Tigerlily Nectar
+i:1 Flawless Emerald
+r:Midas' Noxious Fumes
+d:Surrounds the caster with a cloud of noxious gas. The gas may demoralize, stagger or stun opponents.
+i:1 Gold Nugget
+i:1 Onion
+i:1 Green Stain Shelf Cap
+r:Midas' Plasma Ball
+d:This spell launches a powerful ball of shock energy which explodes in a blast of shock damage on impact
+i:1 Gold Nugget
+i:1 Varla Stone
+i:1 Greater Shock Essence
+r:Midas' Plasma Shards
+d:Midas' Plasma Shards launches 1 to 5 high velocity projectiles. These projectiles will penetrate physical objects and upon impacting a target inflict a small amount of shock damage.
+i:1 Gold Nugget
+i:1-5 Welkynd Stone
+i:1 Sacred Lotus Seeds
+r:Midas' Plasma Stream
+d:This spell cast a stream of plasma energy for 3 seconds.  Targets are continuously damaged by shock energy while in the stream.
+i:1 Gold Nugget
+i:1 Welkynd Stone
+i:1 Grand Soulgem (With Soul)
+r:Midas' Poison Cloud
+d:Casts a cloud of poison gas in front of the caster.  If the target fails to resist, he becomes fatally poisoned.  The effects can be reversed by the Holy Ray.
+i:1 Gold Nugget
+i:1 Poisoned Apple
+i:1 Greater Osmotic Essence
+r:Midas' Power Word Stun
+d:The caster speaks an incantation and the target directly in his path is immediately stunned for a moment. However, speaking this word will draw the attention of others.
+i:1 Gold Nugget
+i:1 Cheap Wine
+i:1 Harrada
+r:Midas' Prism Missiles
+d:Midas' Prism Missiles casts 3 small magical projectiles at the target. These missiles move unhindered by physical objects and inflict one of 5 random effects on targets.
+i:1 Gold Nugget
+i:3 Skooma  
+i:1 Emerald
+i:1 Sapphire 
+i:1 Ruby 
+r:Midas' Prism Ray
+d:Midas' Ray is a beam spell which inflicts one of 5 random effects, similar in effect other Prism Spells, on one target. While the beam is in effect, it follows the aim of the caster.
+i:1 Gold Nugget
+i:1 Varla Stone  
+i:1 Emerald
+i:1 Sapphire 
+i:1 Ruby 
+r:Midas' Prism Spray
+d:Midas' Prism Spray casts 5 streams of magic from the caster's fingertips, each carrying a different effect.  This spell can affect all targets in it's path.
+i:1 Gold Nugget
+i:1 Ruby
+i:1 Topaz
+i:1 Emerald
+i:1 Sapphire
+r:Midas' Purify
+d:This powerful spell removes all ill effects from targets in the area; restoring health, and attributes while removing poisons, magic effects and disease.  It also strikes terror the undead that feel its power. It can only be used once a day.
+i:1 Gold Nugget
+i:1 Greater Life Essence
+i:1 Greater Osmotic Essence
+r:Midas' Rose of Kindness
+d:Midas' Rose of Kindness cast a magical flower as a projectile towards a target. Enemies are calmed by it.  Friends are charmed by it.  And assailing guards are just confused and walk away.
+i:1 Gold Nugget
+i:1 Primrose Leaves
+i:1 Redwort Flower
+r:Midas' Seeking Missiles
+d:This spell launches several small magic missiles that seek out the nearest target in sight and inflict minor health damage.
+i:1 Gold Nugget
+i:1 Skooma
+i:1 Imp Gall
+r:Midas' Slime Ball
+d:Midas' Slime Ball casts a projectile that coats the target in thick, viscous slime.  The target's movement is hindered; making it difficult for it to walk, jump or fire arrows.
+i:1 Gold Nugget
+i:1 Jade (Whole)
+i:1 Water Hyacinth Nectar
+r:Midas' Sharing
+d:Midas' Sharing allows the caster to exchange inventory with friendly characters.  Items transferred become their property. You may, in cases, be unable to access the targets inventory. This spell renders the friendly less than fully dressed for a moment.
+i:1 Gold Nugget
+i:1 Bog Beacon
+i:1 Sacred Lotus Seeds
+r:Midas' Shock Trap
+d:This spell conjures a magical mine that falls to the ground.  Anyone who trips it receives shock damage.
+i:1 Gold Nugget
+i:1 Voidsalts
+i:1 Calipers
+r:Midas' Shrink Ray
+d:The Shrink Ray temporarily reduces the target's size. The diminute target suffers reduced strength and may become overburden by his own gear.
+i:1 Gold Nugget
+i:1 Greater Osmotic Essence
+i:1 Cinnabar Polypore Red Cap
+r:Midas' Spell Shield
+d:Creates a magical shield in front of the caster. It blocks physical attacks and magical projectiles.  This shield is fueled by the casters Magicka and will remain until the caster deactivates or is drained.
+i:1 Gold Nugget
+i:1 Spell Breaker
+r:Midas' Stasis Field
+d:This spell surrounds the caster with a time bubble. All enemies caught in the bubble are stopped for the duration of the spell.  The bubble also stops arrows but not spells.
+i:1 Gold Nugget
+i:1 Hourglass
+i:1 Flawless Pearl
+r:Midas' Stun Gas
+d:Midas' Stun Gas casts a cloud of gas in front of the caster that damages targets fatigue and has a chance of rendering them unconscious.
+i:1 Gold Nugget
+i:1 Spiddal Stick 
+i:1 Vampire Dust
+r:Midas' Summon Midas
+d:Midas' Summon summons an avatar of Midas himself.  Although he will not engage in combat, you may barter with him while you are in the field. One of his more valuable characteristics is that he carries a supply of repair hammers and lock picks.
+i:1 Gold Nugget
+i:1 Minotaur Horn
+i:1 Beer
+r:Midas' Tractor Beam
+d:This spell casts a beam of force energy which draws objects and people alike toward the caster.  The beam follows the caster's direction for the duration of the spell.
+i:1 Gold Nugget
+i:1 Astral Beacon Cap 
+i:1 Flawless Pearl
+r:Midas Touch
+d:Midas Touch imbues the living target with 50 points of fire and normal weapons resistance. When cast on a corpse, it will turn the corpse into gold.  In moments, the corpse deteriorates into a cascade of coins.
+i:1 Gold Nugget
+i:1 Clanfear's Claw
+r:Midas Transmute
+d:Midas is a variation on Midas Touch. It transmutes items into gold coins. If cast on a living being it petrifies them into a golden statue. Casting the spell on the statue will return the target to normal.
+i:1 Gold Nugget
+i:1 Clanfear's Claw
+i:1 Greater Arcane Essence
+r:Midas Wabbabeam
+d:Although theoretical, I believe it possible to use the aurum reactor to transfer the obscure powers of the legendary Wabbajack staff to a magical beam.
+i:1 Gold Nugget
+i:1 WabbaJack
+r:Midas' Beast Mastery
+d:The ultimate power of the druid controls the mind of all natural creatures within the area of effect. Does not affect unnatural or humanoid creatures.
+i:1 Gold Nugget
+i:1 Dryad Saddle Polypore Cap
+i:1 Greater Life Essence
+r:Midas' Calming Scent
+d:The caster breaths a waft of perfume.  Targets are calmed to 70pts.
+i:1 Gold Nugget
+i:1 Redwort Flower
+i:1 Fennel Seeds
+r:Midas' Fortify Beast
+d:This touch spell fortifies strength, endurance, speed and armor of any natural creature.
+i:1 Gold Nugget
+i:1 Dryad Saddle Polypore Cap
+i:1 Ginseng
+r:Midas' Goodberries
+d:This low level spell creates a handful of berries that will restore a little health.
+i:1 Gold Nugget
+i:1 Blackberry
+i:1 Ginseng
+r:Midas' Mass Entangle
+d:This ranged attack creates a field of twisting vines. Anyone caught in the field is burdened by the vines and will have movement restricted.
+i:1 Gold Nugget
+i:1 Taproot
+i:1 Greater Osmotic Essence
+r:Midas' Poison Ray
+d:Fires a beam of natural energy at the targets which poisons and damages the health of your enemies. There are 3 levels of this spell depending on the potion strength
+i:1 Gold Nugget
+i:1 Jade Nugget
+i:1 Poison of Illness
+r:Midas' Polymorph Eagle
+d:Transforms the Caster into an Eagle. While in this form the caster can soar over Tamriel.
+i:1 Gold Nugget
+i:1 Cinnabar Polypore Red Cap
+i:1 Eagle Feather
+r:Midas' Polymorph Wolf
+d:Transforms the Caster into a wolf.
+i:1 Gold Nugget
+i:1 Cinnabar Polypore Red Cap
+i:1 Wolf Pelt
+r:Midas' Spike Growth
+d:This ranged attack creates a field of thorny spikes. Targets receive damage to health and speed.
+i:1 Gold Nugget
+i:1 Taproot
+i:1 Greater Entropic Essence
+r:Midas' Summon Bear
+d:This spell calls forth a grizzly bear to maul your foes.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Bear Pelt
+r:Midas' Summon Dire Boar
+d:Calls forth the massive Dire Boar and bends it to your will.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Boar Meat
+i:1 Flawless Diamond
+r:Midas' Summon Dire Wolf
+d:Summons an obedient Dire Wolf to fight your enemies.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Wolf Pelt
+i:1 Flawless Diamond
+r:Midas' Summon Eagle
+d:This spell calls forth a majestic eagle to attack your foes from above.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Eagle Feather
+r:Midas' Summon Skeep
+d:Summons the elusive skeep to distract your enemies.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Mutton
+i:1 Scamp Skin
+r:Midas' Summon Wolf
+d:Summons a loyal wolf companion.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Wolf Pelt
+r:Midas’ Summon Beholden Hatchling
+d:By collecting the eye of a Beholden, one can bind a Beholden Hatchling to his will.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Beholden Eye
+r:Midas’ Summon Beholden
+d:If one manages to collect the eye of a Hive Mother, it is possible to bind a Beholden into service.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Beholden Hive Mother Eye
+r:The Slime Fiend
+d:Often found cohabitating with the Beholden, the Slime fiend is a slow moving but powerful creature.  One gains the power to summon them by taking the heart of a fiend.
+i:1 Gold Nugget
+i:1 Ectoplasm
+i:1 Slime Heart
+r:Midas' Summon Centurion Prime
+d:Due to the arcane nature of the Dwemeri power source, which cannot as of yet be duplicated by other means.  This Centurion requires a powerful Dwemer Artifact in order to function.
+d:NOTE: Do not use enchanted or ceremonial dwarven items
+i:1 Gold Nugget
+i:1 Volendrung
+i:1 Complete Suit of Dwarven Armor
+i:1 Dwarven Shield
+r:Midas' Summon Centurion Prime (Alternate Recipe)
+d:If Dwarven armor is unavailable due to its scarcity, 5 Brass Nuggets may be used in its stead.
+i:1 Gold Nugget
+i:1 Volendrung
+i:5 Brass Nugget
